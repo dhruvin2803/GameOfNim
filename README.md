@@ -12,4 +12,4 @@ This project is made by Object oriented programming language. I have used Java a
 ## Installation:- 
 - Setup java evnvironment for your PC
 - Clone the repository 
-- Run the code
+- Run the file [Game.java](https://github.com/dhruvin2803/GameOfNim/blob/main/GameOfNim/src/com/company/Game.java)
